@@ -1,0 +1,43 @@
+body{
+    background-image: linear-gradient(to right, #a18cd1 0%, #fbc2eb 100%);
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.col-md-5{
+    margin-top: 120px !important;
+    background-image: linear-gradient(to right, #d3cee0 0%, #fbc2eb 100%);
+
+}
+h1{
+    font-weight: bolder !important;
+    margin: 20px !important;
+}
+
+input[type = "text"]
+{   
+    display: inline !important;
+    width: 85%;
+    background-image: linear-gradient(to right, #c3bfce 0%, #fbc2eb 100%);
+    border: 2px solid black !important;
+    
+}
+button{
+    margin-left: 10px !important;
+}
+
+li{
+    list-style: none;
+    display: inline;
+    width: 70%;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px;
+}
+i{
+    color: red;
+    margin: 10px;
+    
+}
